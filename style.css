@@ -1,0 +1,23 @@
+h1{
+    color: brown
+  }
+  .header{
+    background-color: aquamarine;
+    display: flex;
+    justify-content: space-between;
+  }
+  .grid{
+      display: flex;
+      justify-content: flex-end;
+  }
+  .footer{
+    display: flex;
+    justify-content: flex-end;
+  }
+  h2,p{
+     
+      text-align: center;
+  }
+  body{
+    background-color: #554fa3;
+  }
